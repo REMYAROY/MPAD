@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "700559708363",
+    "firebase_url": "https://notebook-c8a2e.firebaseio.com",
+    "project_id": "notebook-c8a2e",
+    "storage_bucket": "notebook-c8a2e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700559708363:android:c457082ee61d8b57",
+        "android_client_info": {
+          "package_name": "com.example.anjaliroy.notebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700559708363-k4adrbqbmqfpj1bcb7qqmoqmi7q7i26h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.anjaliroy.notebook",
+            "certificate_hash": "f38fef06ab2d564731fd1e27bf7b5835f9923a9c"
+          }
+        },
+        {
+          "client_id": "700559708363-j35hdp6db8iievvko1u51t7d0bf8cjdb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlhT9LyVwVjz1j_7eirnLSNbKfh6uxaxE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "700559708363-j35hdp6db8iievvko1u51t7d0bf8cjdb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
